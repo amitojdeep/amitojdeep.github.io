@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Amitojdeep Singh, Deep Learning Enthusiast, Launches Site"
+title: "Amitojdeep Singh, a Deep Learning Enthusiast, launches his site"
 date: 2017-12-19
 ---
 
