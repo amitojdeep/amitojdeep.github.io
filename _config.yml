@@ -1,2 +1,3 @@
 name: Amitojdeep Singh, Deep Learning Enthusiast
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
