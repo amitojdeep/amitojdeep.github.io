@@ -1,2 +1,2 @@
-# amitojdeep.github.io
-This is my website's repo
+# anirudhk686.github.io
+personal website

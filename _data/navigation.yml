@@ -1,0 +1,16 @@
+# main links links
+main:
+  - title: "Home"
+    url: #
+    
+  - title: "Projects"
+    url: /Projects/  
+    
+  - title: "Resume"
+    url: /files/Anirudh_resume.pdf
+    
+  - title: "Blog Posts"
+    url: /Blog Posts/
+    
+  - title: "Contact"
+    url: /Contact/
