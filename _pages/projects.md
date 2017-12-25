@@ -39,7 +39,7 @@ redirect_from:
 * **Google word2vec** was used to generate embeddings of query phrases
 * Achieved an accuracy of **80.35%** on *Quora Duplicate Questions Dataset*
 * Semantic similarity between current sentence and sentences in corpus was used for predictive typing
-* It outperformed atate of the art statistical techniques for Predictive Typing
+* It outperformed state of the art statistical techniques for Predictive Typing
 * [[_Source code_]](https://github.com/amitojdeep/predictive-typing)
 
 ## Multiperson Pose Estimation for Real Time Video <br> (_Ongoing_)
