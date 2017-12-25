@@ -7,7 +7,7 @@ fullwidth: true
 redirect_from: 
 ---
 
-## Neural Networks for Stock Price Prediction <br>(_August - December 2017_)
+## Neural Networks for Stock Price Prediction <br>(_August 2017 - December 2017_)
 `python`  `keras` `multimodal` `multitask` `LSTM` `cnn` `deep learning` `financial forecasting` `stocks` `stock market`<br>
 * Designed a Multimodal and Multitask Deep Learning Model to predict stock price movement and volatility
 * Price History and News headlines were taken as two modalities and used as inputs to two separate LSTMs
@@ -15,7 +15,7 @@ redirect_from:
 *  Achieved a prediction accuracy of **74.93%** for predicting price movement direction and MSE of **0.0017** for normalized volatility prediction
 * [[_Source code_]](https://github.com/amitojdeep/deep-stock-preds)
 
-## Deep Convolutional Neural Networks for Traffic Sign Recognition & Detection  <br> (_June - July 2017_)
+## Deep Convolutional Neural Networks for Traffic Sign Recognition & Detection  <br> (_June 2017 - July 2017_)
 `keras` `theano` `deep learning` `gtsrb` `gtsdb` `vgg` `vgg16` <br>
 * A custom 2D Convolutional Deep Learning Model inspired by VGG architecture with additional batch normalization layers was designed
 *  Majority voting was applied for *ensembling* for increased robustness and accuracy
@@ -25,7 +25,7 @@ redirect_from:
 * [[_Source code_]](https://github.com/amitojdeep/traffic-sign-reco)
 
 
-## ATU: Adaptive Template Update for Constructive Fingerprint Identification <br>(_January - December 2017_)
+## ATU: Adaptive Template Update for Constructive Fingerprint Identification <br>(_January 2017 - December 2017_)
 `python`  `menpo` `numpy` `scipy` `thin plate spline` `tps` `minutiae` `biometrics` `fingerprint` <br>
 * Minutiae points were mosaicked using **Thin Plate Spline transformation**
 * It mimiced natural deformation during registration
@@ -33,7 +33,7 @@ redirect_from:
 * Achieved **100% CRR** and **20% EER** for fingerprints of 100 users of *FVC 2004 database*
 * [[_Source code_]](https://github.com/amitojdeep/fp-recognition)
 
-## Semantic Similarity Analyzer and Predictive Typing System <br>(_November 2017_)
+## Semantic Similarity Analyzer and Predictive Typing System <br>(_October 2017- November 2017_)
 `python` `keras` `Siamese LSTM` `Manhattan LSTM` `MaLSTM` `Semantic` <br>
 * Used **Manhattan LSTM** to predict semantic similarity of two query phrases
 * **Google word2vec** was used to generate embeddings of query phrases
