@@ -9,8 +9,10 @@ main:
   - title: "Resume"
     url: /files/Amitojdeep_resume.pdf
     
-  - title: "Blog Posts"
+  - title: "Blog"
     url: /Blog Posts/
     
+  - title: "Work Experience"
+    url : /Experince/
   - title: "Contact"
     url: /Contact/
