@@ -17,7 +17,13 @@ redirect_from:
 
 ## Deep Convolutional Neural Networks for Traffic Sign Recognition & Detection  <br> (_June - July 2017_)
 `keras` `theano` `deep learning` `gtsrb` `gtsdb` `vgg` `vgg16` <br>
-* A customized 2D Convolutional Deep Learning Model inspired by VGG architecture was designed to recognize 
+* A custom 2D Convolutional Deep Learning Model inspired by VGG architecture with additional batch normalization layers was designed
+*  Majority voting was applied for *ensembling* for increased robustness and accuracy
+* *German Traffic Sign Recognition Benchmark* [[_GTSRB_]]http://benchmark.ini.rub.de/?section=gtsrb&subsection=news) dataset was used for comparing with state of the art techniques
+* Achieved 99.38% classification accuracy on the 42 categories of traffic signs
+* Ranked 7th internationally on the GTSRB benchmark, beating any human performance based approach and being comparable to academic state of the art.
+* [[_Source code_]](https://github.com/amitojdeep/traffic-sign-reco)
+
 
 ## ATU: Adaptive Template Update for Constructive Fingerprint Identification <br>(_February - December 2017_)
 `python`  `menpo` `numpy` `scipy` `thin plate spline` `tps` `minutiae` `biometrics` `fingerprint` <br>
@@ -25,7 +31,7 @@ redirect_from:
 * It mimiced natural deformation during registration
 * High confidence test fingerprints were used to update the database to improve the accuracy 
 * Achieved **100% CRR** and **20% EER** for fingerprints of 100 users of *FVC 2004 database*
-* 
+* [[_Source code_]](https://github.com/amitojdeep/fp-recognition)
 
 ## Semantic Similarity Analyzer and Predictive Typing System <br>(_November 2017_)
 `python` `keras` `Siamese LSTM` `Manhattan LSTM` `MaLSTM` `Semantic` <br>
