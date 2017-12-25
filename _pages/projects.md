@@ -12,7 +12,7 @@ redirect_from:
 * Designed a Multimodal and Multitask Deep Learning Model to predict stock price movement and volatility
 * Price History and News headlines were taken as two modalities and used as inputs to two separate LSTMs
 * Outputs of both LSTMs were merged and two independent branches of dense layers were used to predict price movement direction and volatility
-*  Achieve a prediction accuracy of **74.93%** for predicting price movement direction and MSE of **0.0017** for normalized volatility prediction
+*  Achieved a prediction accuracy of **74.93%** for predicting price movement direction and MSE of **0.0017** for normalized volatility prediction
 * [[_Source code_]](https://github.com/amitojdeep/deep-stock-preds)
 
 ## Deep Convolutional Neural Networks for Traffic Sign Recognition & Detection  <br> (_June - July 2017_)
@@ -25,7 +25,7 @@ redirect_from:
 * [[_Source code_]](https://github.com/amitojdeep/traffic-sign-reco)
 
 
-## ATU: Adaptive Template Update for Constructive Fingerprint Identification <br>(_February - December 2017_)
+## ATU: Adaptive Template Update for Constructive Fingerprint Identification <br>(_January - December 2017_)
 `python`  `menpo` `numpy` `scipy` `thin plate spline` `tps` `minutiae` `biometrics` `fingerprint` <br>
 * Minutiae points were mosaicked using **Thin Plate Spline transformation**
 * It mimiced natural deformation during registration
@@ -42,7 +42,7 @@ redirect_from:
 * It outperformed atate of the art statistical techniques for Predictive Typing
 * [[_Source code_]](https://github.com/amitojdeep/predictive-typing)
 
-## Multiperson Pose Estimation for Real Time Video <br> (_January 2018 - Now_)
+## Multiperson Pose Estimation for Real Time Video <br> (_Ongoing_)
 `python` `vgg` `vgg19` `posture estimation` `keras` `android` <br>
 * Ongoing project for current semester
 * Using VGG 19 outputs of video frame by frame to extract key points and match them using Part Affine Fields
