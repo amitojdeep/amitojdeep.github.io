@@ -18,10 +18,10 @@ redirect_from:
 ## Deep Convolutional Neural Networks for Traffic Sign Recognition & Detection  <br> (_June 2017 - July 2017_)
 `keras` `theano` `deep learning` `gtsrb` `gtsdb` `vgg` `vgg16` <br>
 * A custom 2D Convolutional Deep Learning Model inspired by VGG architecture with additional batch normalization layers was designed
-*  Majority voting was applied for *ensembling* for increased robustness and accuracy
+*  Majority voting was applied for **ensembling** for increased robustness and accuracy
 * *German Traffic Sign Recognition Benchmark* [[_GTSRB_]](http://benchmark.ini.rub.de/?section=gtsrb&subsection=news) dataset was used for comparing with state of the art techniques
-* Achieved 99.38% classification accuracy on the 42 categories of traffic signs
-* Ranked 7th internationally on the GTSRB benchmark, beating any human performance based approach and being comparable to academic state of the art.
+* Achieved **99.38%** classification accuracy on the 42 categories of traffic signs
+* Ranked **7th internationally** on the GTSRB benchmark, beating any human performance based approach and being comparable to academic state of the art.
 * [[_Source code_]](https://github.com/amitojdeep/traffic-sign-reco) [[_Report_]](https://github.com/amitojdeep/traffic-sign-reco/raw/master/Training%20Report.pdf)
 
 
