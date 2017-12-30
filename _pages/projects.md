@@ -16,7 +16,7 @@ redirect_from:
 * *German Traffic Sign Recognition Benchmark* [[_GTSRB_]](http://benchmark.ini.rub.de/?section=gtsrb&subsection=news) dataset was used for comparing with state of the art techniques
 * Achieved **99.38%** classification accuracy on the 42 categories of traffic signs
 * Ranked **7th internationally** on the GTSRB benchmark, beating any human performance based approach and being comparable to academic state of the art
-* My [Blog post](https://amitojdeep.github.io/amitoj-blogs/2017/07/20/traffic-sign-reco.html) explaining the model, ensembling and results along with some suggested approaches for further research
+* My [Blog post](https://amitojdeep.github.io/amitoj-blogs/2017/12/29/traffic-sign-reco.html) explaining the model, ensembling and results along with some suggested approaches for further research
 * [[_Source code_]](https://github.com/amitojdeep/traffic-sign-reco) [[_Report_]](https://github.com/amitojdeep/traffic-sign-reco/raw/master/Training%20Report.pdf)
 
 ## Neural Networks for Stock Price Prediction <br>(_August 2017 - December 2017_)
