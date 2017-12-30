@@ -6,8 +6,9 @@ author_profile: true
 fullwidth: true
 redirect_from: 
 ---
+# Projects
 
-
+Some of the projects that I have done in recent times are:
 
 ## Deep Convolutional Neural Networks for Traffic Sign Recognition & Detection  <br> (_June 2017 - July 2017_)
 `keras` `theano` `deep learning` `gtsrb` `gtsdb` `vgg` `vgg16` <br>
@@ -29,13 +30,11 @@ redirect_from:
 * [[_Source code_]](https://github.com/amitojdeep/deep-stock-preds) [[_Report_]](https://github.com/amitojdeep/deep-stock-preds/raw/master/Deep%20Learning%20for%20Stock%20Price%20Prediction.pdf)
 
 
-## ATU: Adaptive Template Update for Constructive Fingerprint Identification <br>(_January 2017 - December 2017_)
-`python`  `menpo` `numpy` `scipy` `thin plate spline` `tps` `minutiae` `biometrics` `fingerprint` <br>
-* Minutiae points were mosaicked using **Thin Plate Spline transformation**
-* It mimiced natural deformation during registration
-* High confidence test fingerprints were used to update the database to improve the accuracy 
-* Achieved **100% CRR** and **20% EER** for fingerprints of 100 users of *FVC 2004 database*
-* [[_Source code_]](https://github.com/amitojdeep/fp-recognition) [[_Paper_]](https://github.com/amitojdeep/fp-recognition/raw/master/writeup.pdf)
+## Multiperson Pose Estimation for Real Time Video <br> (_Ongoing_)
+`python` `vgg` `vgg19` `posture estimation` `keras` `android` <br>
+* Ongoing project for current semester
+* Using VGG 19 outputs of video frame by frame to extract key points and match them using Part Affine Fields
+* Implementing the system on android based device for practical application
 
 ## Semantic Similarity Analyzer and Predictive Typing System <br>(_October 2017- November 2017_)
 `python` `keras` `Siamese LSTM` `Manhattan LSTM` `MaLSTM` `Semantic` <br>
@@ -46,11 +45,13 @@ redirect_from:
 * It outperformed state of the art statistical techniques for Predictive Typing
 * [[_Source code_]](https://github.com/amitojdeep/predictive-typing) [[_Report_]](https://github.com/amitojdeep/predictive-typing/raw/master/report.pdf)
 
-## Multiperson Pose Estimation for Real Time Video <br> (_Ongoing_)
-`python` `vgg` `vgg19` `posture estimation` `keras` `android` <br>
-* Ongoing project for current semester
-* Using VGG 19 outputs of video frame by frame to extract key points and match them using Part Affine Fields
-* Implementing the system on android based device for practical application
+## ATU: Adaptive Template Update for Constructive Fingerprint Identification <br>(_January 2017 - December 2017_)
+`python`  `menpo` `numpy` `scipy` `thin plate spline` `tps` `minutiae` `biometrics` `fingerprint` <br>
+* Minutiae points were mosaicked using **Thin Plate Spline transformation**
+* It mimiced natural deformation during registration
+* High confidence test fingerprints were used to update the database to improve the accuracy 
+* Achieved **100% CRR** and **20% EER** for fingerprints of 100 users of *FVC 2004 database*
+* [[_Source code_]](https://github.com/amitojdeep/fp-recognition) [[_Paper_]](https://github.com/amitojdeep/fp-recognition/raw/master/writeup.pdf)
 
 ## Smart AC System
 * Designed Smart AC System using 8086 microprocessor, RAM, ROM, PPI, Timer, LCD, address latches & buffers. 
