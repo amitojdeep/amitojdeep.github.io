@@ -7,13 +7,7 @@ fullwidth: true
 redirect_from: 
 ---
 
-## Neural Networks for Stock Price Prediction <br>(_August 2017 - December 2017_)
-`python`  `keras` `multimodal` `multitask` `LSTM` `cnn` `deep learning` `financial forecasting` `stocks` `stock market`<br>
-* Designed a Multimodal and Multitask Deep Learning Model to predict stock price movement and volatility
-* Price History and News headlines were taken as two modalities and used as inputs to two separate LSTMs
-* Outputs of both LSTMs were merged and two independent branches of dense layers were used to predict price movement direction and volatility
-*  Achieved a prediction accuracy of **74.93%** for predicting price movement direction and MSE of **0.0017** for normalized volatility prediction
-* [[_Source code_]](https://github.com/amitojdeep/deep-stock-preds) [[_Report_]](https://github.com/amitojdeep/deep-stock-preds/raw/master/Deep%20Learning%20for%20Stock%20Price%20Prediction.pdf)
+
 
 ## Deep Convolutional Neural Networks for Traffic Sign Recognition & Detection  <br> (_June 2017 - July 2017_)
 `keras` `theano` `deep learning` `gtsrb` `gtsdb` `vgg` `vgg16` <br>
@@ -21,8 +15,17 @@ redirect_from:
 *  Majority voting was applied for **ensembling** for increased robustness and accuracy
 * *German Traffic Sign Recognition Benchmark* [[_GTSRB_]](http://benchmark.ini.rub.de/?section=gtsrb&subsection=news) dataset was used for comparing with state of the art techniques
 * Achieved **99.38%** classification accuracy on the 42 categories of traffic signs
-* Ranked **7th internationally** on the GTSRB benchmark, beating any human performance based approach and being comparable to academic state of the art.
+* Ranked **7th internationally** on the GTSRB benchmark, beating any human performance based approach and being comparable to academic state of the art
+* My [Blog post](https://amitojdeep.github.io/amitoj-blogs/2017/07/20/traffic-sign-reco.html) explaining the model, ensembling and results along with some suggested approaches for further research
 * [[_Source code_]](https://github.com/amitojdeep/traffic-sign-reco) [[_Report_]](https://github.com/amitojdeep/traffic-sign-reco/raw/master/Training%20Report.pdf)
+
+## Neural Networks for Stock Price Prediction <br>(_August 2017 - December 2017_)
+`python`  `keras` `multimodal` `multitask` `LSTM` `cnn` `deep learning` `financial forecasting` `stocks` `stock market`<br>
+* Designed a Multimodal and Multitask Deep Learning Model to predict stock price movement and volatility
+* Price History and News headlines were taken as two modalities and used as inputs to two separate LSTMs
+* Outputs of both LSTMs were merged and two independent branches of dense layers were used to predict price movement direction and volatility
+*  Achieved a prediction accuracy of **74.93%** for predicting price movement direction and MSE of **0.0017** for normalized volatility prediction
+* [[_Source code_]](https://github.com/amitojdeep/deep-stock-preds) [[_Report_]](https://github.com/amitojdeep/deep-stock-preds/raw/master/Deep%20Learning%20for%20Stock%20Price%20Prediction.pdf)
 
 
 ## ATU: Adaptive Template Update for Constructive Fingerprint Identification <br>(_January 2017 - December 2017_)
