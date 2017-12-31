@@ -1,14 +1,14 @@
 ---
 permalink: /Projects/
-title: ""
+title: "Projects"
 excerpt: ""
 author_profile: true
 fullwidth: true
 redirect_from: 
 ---
-# Projects
+# Research Projects
 
-Some of the projects that I have done in recent times are:
+Some of the projects that I have done in recent times are briefly described here along with links to their blog posts, reports and github repositories.
 
 ## Deep Convolutional Neural Networks for Traffic Sign Recognition & Detection  <br> (_June 2017 - July 2017_)
 `keras` `theano` `deep learning` `gtsrb` `gtsdb` `vgg` `vgg16` <br>
@@ -29,13 +29,6 @@ Some of the projects that I have done in recent times are:
 * Read my [blog post](https://amitojdeep.github.io/amitoj-blogs/2017/12/30/deep-stock-preds.html) for insights on this work
 * [[_Source code_]](https://github.com/amitojdeep/deep-stock-preds) [[_Report_]](https://github.com/amitojdeep/deep-stock-preds/raw/master/Deep%20Learning%20for%20Stock%20Price%20Prediction.pdf)
 
-
-## Multiperson Pose Estimation for Real Time Video <br> (_Ongoing_)
-`python` `vgg` `vgg19` `posture estimation` `keras` `android` <br>
-* Ongoing project for current semester
-* Using VGG 19 outputs of video frame by frame to extract key points and match them using Part Affine Fields
-* Implementing the system on android based device for practical application
-
 ## Semantic Similarity Analyzer and Predictive Typing System <br>(_October 2017- November 2017_)
 `python` `keras` `Siamese LSTM` `Manhattan LSTM` `MaLSTM` `Semantic` <br>
 * Used **Manhattan LSTM** to predict semantic similarity of two query phrases
@@ -43,7 +36,14 @@ Some of the projects that I have done in recent times are:
 * Achieved an accuracy of **80.35%** on *Quora Duplicate Questions Dataset*
 * Semantic similarity between current sentence and sentences in corpus was used for predictive typing
 * It outperformed state of the art statistical techniques for Predictive Typing
+* Read my [blog post](https://amitojdeep.github.io/amitoj-blogs/2017/12/31/semantic-similarity.html) for design, implementation and results of the Semantic Similarity Analyzer.
 * [[_Source code_]](https://github.com/amitojdeep/predictive-typing) [[_Report_]](https://github.com/amitojdeep/predictive-typing/raw/master/report.pdf)
+
+## Multiperson Pose Estimation for Real Time Video <br> (_Ongoing_)
+`python` `vgg` `vgg19` `posture estimation` `keras` `android` <br>
+* Ongoing project for current semester
+* Using VGG 19 outputs of video frame by frame to extract key points and match them using Part Affine Fields
+* Implementing the system on android based device for practical application
 
 ## ATU: Adaptive Template Update for Constructive Fingerprint Identification <br>(_January 2017 - December 2017_)
 `python`  `menpo` `numpy` `scipy` `thin plate spline` `tps` `minutiae` `biometrics` `fingerprint` <br>
