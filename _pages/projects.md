@@ -1,12 +1,11 @@
 ---
 permalink: /Projects/
-title: "Projects"
+title: "Research Projects"
 excerpt: ""
 author_profile: true
 fullwidth: true
 redirect_from: 
 ---
-# Research Projects
 
 Some of the projects that I have done in recent times are briefly described here along with links to their blog posts, reports and github repositories.
 
