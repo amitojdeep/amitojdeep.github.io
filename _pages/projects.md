@@ -13,9 +13,9 @@ Some of the projects that I have done in recent times are briefly described here
 `keras` `theano` `deep learning` `gtsrb` `gtsdb` `vgg` `vgg16` <br>
 * A custom 2D Convolutional Deep Learning Model inspired by VGG architecture with additional batch normalization layers was designed
 *  Majority voting was applied for **ensembling** for increased robustness and accuracy
-* *German Traffic Sign Recognition Benchmark* [[_GTSRB_]](http://benchmark.ini.rub.de/?section=gtsrb&subsection=news) dataset was used for comparing with state of the art techniques
-* Achieved **99.38%** classification accuracy on the 42 categories of traffic signs
-* Ranked **7th internationally** on the GTSRB benchmark, beating any human performance based approach and being comparable to academic state of the art
+* *German Traffic Sign Recognition Benchmark* [[_GTSRB_]](http://benchmark.ini.rub.de/?section=gtsrb&subsection=news) dataset was used for comparison with state of the art techniques
+* Achieved **99.38%** classification accuracy on the 43 categories of traffic signs
+* Ranked **7th internationally** on the GTSRB benchmark, beating any human performance based approach and achieving results comparable to academic state of the art
 * My [blog post](https://amitojdeep.github.io/amitoj-blogs/2017/12/29/traffic-sign-reco.html) explaining the model, ensembling and results along with some suggested approaches for further research
 * [[_Source code_]](https://github.com/amitojdeep/traffic-sign-reco) [[_Report_]](https://github.com/amitojdeep/traffic-sign-reco/raw/master/Training%20Report.pdf)
 
@@ -32,9 +32,9 @@ Some of the projects that I have done in recent times are briefly described here
 `python` `keras` `Siamese LSTM` `Manhattan LSTM` `MaLSTM` `Semantic` <br>
 * Used **Manhattan LSTM** to predict semantic similarity of two query phrases
 * **Google word2vec** was used to generate embeddings of query phrases
-* Achieved an accuracy of **80.35%** on *Quora Duplicate Questions Dataset*
-* Semantic similarity between current sentence and sentences in corpus was used for predictive typing
-* It outperformed state of the art statistical techniques for Predictive Typing
+* Achieved an accuracy of **80.35%** on *Quora Question Pairs Dataset*
+* Semantic similarity between current sentence and sentences in the corpus was used for predictive typing
+* It outperformed state of the art statistical techniques
 * Read my [blog post](https://amitojdeep.github.io/amitoj-blogs/2017/12/31/semantic-similarity.html) for design, implementation and results of the Semantic Similarity Analyzer.
 * [[_Source code_]](https://github.com/amitojdeep/predictive-typing) [[_Report_]](https://github.com/amitojdeep/predictive-typing/raw/master/report.pdf)
 
@@ -42,13 +42,13 @@ Some of the projects that I have done in recent times are briefly described here
 `python` `vgg` `vgg19` `posture estimation` `keras` `android` <br>
 * Ongoing project for current semester
 * Using VGG 19 outputs of video frame by frame to extract key points and match them using Part Affine Fields
-* Implementing the system on android based device for practical application
+* Implementing the system on android based device for practical applications like yoga postures and surveillance.
 
 ## ATU: Adaptive Template Update for Constructive Fingerprint Identification <br>(_January 2017 - December 2017_)
 `python`  `menpo` `numpy` `scipy` `thin plate spline` `tps` `minutiae` `biometrics` `fingerprint` <br>
 * Minutiae points were mosaicked using **Thin Plate Spline transformation**
-* It mimiced natural deformation during registration
-* High confidence test fingerprints were used to update the database to improve the accuracy 
+* It mimiced natural deformation during registration of fingerprints and counter acted them to achieve consitency between different fingerprints of the same user
+* High confidence test fingerprints were used to update the database resulting in knowledge augmentation and efficiency 
 * Achieved **100% CRR** and **20% EER** for fingerprints of 100 users of *FVC 2004 database*
 * [[_Source code_]](https://github.com/amitojdeep/fp-recognition) [[_Paper_]](https://github.com/amitojdeep/fp-recognition/raw/master/writeup.pdf)
 
