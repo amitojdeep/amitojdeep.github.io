@@ -42,7 +42,9 @@ Some of the projects that I have done in recent times are briefly described here
 `python` `vgg` `vgg19` `posture estimation` `keras` `android` <br>
 * Ongoing project for current semester
 * Using VGG 19 outputs of video frame by frame to extract key points and match them using Part Affine Fields
-* Implementing the system on android based device for practical applications like yoga postures and surveillance.
+* The system takes estimated poses from [Openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) and uses them to train a deep learning model for yoga posture estimation
+* Implementation of the system on android based device for real time applications like yoga postures and surveillance
+
 
 ## ATU: Adaptive Template Update for Constructive Fingerprint Identification <br>(_January 2017 - December 2017_)
 `python`  `menpo` `numpy` `scipy` `thin plate spline` `tps` `minutiae` `biometrics` `fingerprint` <br>
