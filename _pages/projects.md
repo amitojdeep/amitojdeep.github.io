@@ -22,10 +22,10 @@ Some of the projects that I have done in recent times are briefly described here
 ## Yoga Pose Estimation for Real Time Video <br> (_Ongoing_)
 `python` `vgg` `vgg19` `posture estimation` `keras` `android` <br>
 * The system takes estimated poses from [Openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) and uses them to train a deep learning model for yoga posture estimation
-* [Repo](https://github.com/amitojdeep/yoga-pose) with notebooks and extracted pose dataset
 * Upto **99.8%** accuracy on initial data  
 * Next up: Realtime implementation and increasing number of yoga poses
 * Final goal: Implementation of the system on Android devices using Neural Net API
+* [Repo](https://github.com/amitojdeep/yoga-pose) with notebooks and extracted pose dataset
 
 ## Neural Networks for Stock Price Prediction <br>(_August 2017 - December 2017_)
 `python`  `keras` `multimodal` `multitask` `LSTM` `cnn` `deep learning` `financial forecasting` `stocks` `stock market`<br>
