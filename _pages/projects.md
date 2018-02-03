@@ -19,6 +19,14 @@ Some of the projects that I have done in recent times are briefly described here
 * My [blog post](https://amitojdeep.github.io/amitoj-blogs/2017/12/29/traffic-sign-reco.html) explaining the model, ensembling and results along with some suggested approaches for further research
 * [[_Source code_]](https://github.com/amitojdeep/traffic-sign-reco) [[_Report_]](https://github.com/amitojdeep/traffic-sign-reco/raw/master/Training%20Report.pdf)
 
+## Yoga Pose Estimation for Real Time Video <br> (_Ongoing_)
+`python` `vgg` `vgg19` `posture estimation` `keras` `android` <br>
+* The system takes estimated poses from [Openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) and uses them to train a deep learning model for yoga posture estimation
+* [Repo](https://github.com/amitojdeep/yoga-pose) with notebooks and extracted pose dataset
+* Upto **99.8%** accuracy on initial data  
+* Next up: Realtime implementation and increasing number of yoga poses
+* Final goal: Implementation of the system on Android devices using Neural Net API
+
 ## Neural Networks for Stock Price Prediction <br>(_August 2017 - December 2017_)
 `python`  `keras` `multimodal` `multitask` `LSTM` `cnn` `deep learning` `financial forecasting` `stocks` `stock market`<br>
 * Designed a Multimodal and Multitask Deep Learning Model to predict stock price movement and volatility
@@ -37,14 +45,6 @@ Some of the projects that I have done in recent times are briefly described here
 * It outperformed state of the art statistical techniques
 * Read my [blog post](https://amitojdeep.github.io/amitoj-blogs/2017/12/31/semantic-similarity.html) for design, implementation and results of the Semantic Similarity Analyzer.
 * [[_Source code_]](https://github.com/amitojdeep/predictive-typing) [[_Report_]](https://github.com/amitojdeep/predictive-typing/raw/master/report.pdf)
-
-## Multiperson Pose Estimation for Real Time Video <br> (_Ongoing_)
-`python` `vgg` `vgg19` `posture estimation` `keras` `android` <br>
-* Ongoing project for current semester
-* Using VGG 19 outputs of video frame by frame to extract key points and match them using Part Affine Fields
-* The system takes estimated poses from [Openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) and uses them to train a deep learning model for yoga posture estimation
-* Implementation of the system on android based device for real time applications like yoga postures and surveillance
-
 
 ## ATU: Adaptive Template Update for Constructive Fingerprint Identification <br>(_January 2017 - December 2017_)
 `python`  `menpo` `numpy` `scipy` `thin plate spline` `tps` `minutiae` `biometrics` `fingerprint` <br>
