@@ -19,13 +19,13 @@ Some of the projects that I have done in recent times are briefly described here
 * My [blog post](https://amitojdeep.github.io/amitoj-blogs/2017/12/29/traffic-sign-reco.html) explaining the model, ensembling and results along with some suggested approaches for further research
 * [[_Source code_]](https://github.com/amitojdeep/traffic-sign-reco) [[_Report_]](https://github.com/amitojdeep/traffic-sign-reco/raw/master/Training%20Report.pdf)
 
-## Yoga Pose Estimation for Real Time Video <br> (_Ongoing_)
+## Yoga Pose Estimation for Real Time Video <br> (_December 2017 - August 2018_)
 `python` `vgg` `vgg19` `posture estimation` `keras` `android` <br>
 * The system takes estimated poses from [Openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) and uses them to train a deep learning model for yoga posture estimation
-* Upto **99.8%** accuracy on initial data  
-* Next up: Realtime implementation and increasing number of yoga poses
-* Final goal: Implementation of the system on Android devices using Neural Net API
-* [Repo](https://github.com/amitojdeep/yoga-pose) with notebooks and extracted pose dataset
+* Achieved **99.32%** accuracy on initial data  
+* Realtime implementation achieved **98.92%** accuracy
+* Final goal: Implementation of a yoga training system on Android devices using Neural Net API
+* [Repo](https://github.com/amitojdeep/yoga-pose)
 
 ## Neural Networks for Stock Price Prediction <br>(_August 2017 - December 2017_)
 `python`  `keras` `multimodal` `multitask` `LSTM` `cnn` `deep learning` `financial forecasting` `stocks` `stock market`<br>
