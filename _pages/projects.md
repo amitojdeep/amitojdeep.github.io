@@ -9,6 +9,14 @@ redirect_from:
 
 Some of the projects that I have done in recent times are briefly described here along with links to their blog posts, reports and github repositories.
 
+## Yoga Activity Estimation for Real Time Video <br> (_December 2017 - August 2018_)
+`python` `posture estimation` `keras` `LSTM` `CNN`<br>
+* The system takes estimated poses from [Openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) and uses them to train a deep learning model for yoga posture estimation
+* Achieved **99.32%** accuracy on initial data  
+* Realtime implementation achieved **98.92%** accuracy
+* Submitted for publication
+* [Demo](https://drive.google.com/open?id=1hk78LY0aJTCGAEU6KnzmH8OhmiJlin5G)
+
 ## Deep Convolutional Neural Networks for Traffic Sign Recognition & Detection  <br> (_June 2017 - July 2017_)
 `keras` `theano` `deep learning` `gtsrb` `gtsdb` `vgg` `vgg16` <br>
 * A custom 2D Convolutional Deep Learning Model inspired by VGG architecture with additional batch normalization layers was designed
@@ -18,14 +26,6 @@ Some of the projects that I have done in recent times are briefly described here
 * Ranked **7th internationally** on the GTSRB benchmark, beating any human performance based approach and achieving results comparable to academic state of the art
 * My [blog post](https://amitojdeep.github.io/amitoj-blogs/2017/12/29/traffic-sign-reco.html) explaining the model, ensembling and results along with some suggested approaches for further research
 * [[_Source code_]](https://github.com/amitojdeep/traffic-sign-reco) [[_Report_]](https://github.com/amitojdeep/traffic-sign-reco/raw/master/Training%20Report.pdf)
-
-## Yoga Pose Estimation for Real Time Video <br> (_December 2017 - August 2018_)
-`python` `vgg` `vgg19` `posture estimation` `keras` `android` <br>
-* The system takes estimated poses from [Openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose) and uses them to train a deep learning model for yoga posture estimation
-* Achieved **99.32%** accuracy on initial data  
-* Realtime implementation achieved **98.92%** accuracy
-* Final goal: Implementation of a yoga training system on Android devices using Neural Net API
-* [Repo](https://github.com/amitojdeep/yoga-pose)
 
 ## Neural Networks for Stock Price Prediction <br>(_August 2017 - December 2017_)
 `python`  `keras` `multimodal` `multitask` `LSTM` `cnn` `deep learning` `financial forecasting` `stocks` `stock market`<br>
