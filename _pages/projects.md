@@ -46,6 +46,14 @@ Some of the projects that I have done in recent times are briefly described here
 * Read my [blog post](https://amitojdeep.github.io/amitoj-blogs/2017/12/31/semantic-similarity.html) for design, implementation and results of the Semantic Similarity Analyzer.
 * [[_Source code_]](https://github.com/amitojdeep/predictive-typing) [[_Report_]](https://github.com/amitojdeep/predictive-typing/raw/master/report.pdf)
 
+
+## Compiler Construction <br>(_January 2017 - December 2017_)
+`compiler`  `programming` `languages` `C` `Data Structures`<br>
+* A compiler for a language supportibg arithmetic, string and matrix operations was developed in C using hash tables, trees and stack optimally.
+* Completed as a part of Compiler Construction course from Jan - May 2018 at BITS Pilani
+* [[_Repo_]](https://github.com/amitojdeep/compiler-construction)
+
+
 ## ATU: Adaptive Template Update for Constructive Fingerprint Identification <br>(_January 2017 - December 2017_)
 `python`  `menpo` `numpy` `scipy` `thin plate spline` `tps` `minutiae` `biometrics` `fingerprint` <br>
 * Minutiae points were mosaicked using **Thin Plate Spline transformation**
