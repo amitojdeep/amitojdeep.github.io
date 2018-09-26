@@ -15,7 +15,7 @@ Some of the projects that I have done in recent times are briefly described here
 * Achieved **99.32%** accuracy on initial data  
 * Realtime implementation achieved **98.92%** accuracy
 * Submitted for publication
-* [Demo](https://drive.google.com/open?id=1hk78LY0aJTCGAEU6KnzmH8OhmiJlin5G)
+* [[Demo]](https://drive.google.com/drive/folders/1Xc0h5e6ntYcYL13JCwfHP1PuwtrBKbpM?usp=sharing)
 
 ## Deep Convolutional Neural Networks for Traffic Sign Recognition & Detection  <br> (_June 2017 - July 2017_)
 `keras` `theano` `deep learning` `gtsrb` `gtsdb` `vgg` `vgg16` <br>
