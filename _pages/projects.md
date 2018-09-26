@@ -15,7 +15,7 @@ Some of the projects that I have done in recent times are briefly described here
 * Achieved **99.32%** accuracy on initial data  
 * Realtime implementation achieved **98.92%** accuracy
 * Submitted for publication
-* [[Demo]](https://drive.google.com/drive/folders/1Xc0h5e6ntYcYL13JCwfHP1PuwtrBKbpM?usp=sharing)
+* [_Demo_](https://drive.google.com/drive/folders/1Xc0h5e6ntYcYL13JCwfHP1PuwtrBKbpM?usp=sharing)
 
 ## Deep Convolutional Neural Networks for Traffic Sign Recognition & Detection  <br> (_June 2017 - July 2017_)
 `keras` `theano` `deep learning` `gtsrb` `gtsdb` `vgg` `vgg16` <br>
@@ -25,7 +25,7 @@ Some of the projects that I have done in recent times are briefly described here
 * Achieved **99.38%** classification accuracy on the 43 categories of traffic signs
 * Ranked **7th internationally** on the GTSRB benchmark, beating any human performance based approach and achieving results comparable to academic state of the art
 * My [blog post](https://amitojdeep.github.io/amitoj-blogs/2017/12/29/traffic-sign-reco.html) explaining the model, ensembling and results along with some suggested approaches for further research
-* [[_Source code_]](https://github.com/amitojdeep/traffic-sign-reco) [[_Report_]](https://github.com/amitojdeep/traffic-sign-reco/raw/master/Training%20Report.pdf)
+* [_Source code_](https://github.com/amitojdeep/traffic-sign-reco) [[_Report_]](https://github.com/amitojdeep/traffic-sign-reco/raw/master/Training%20Report.pdf)
 
 ## Neural Networks for Stock Price Prediction <br>(_August 2017 - December 2017_)
 `python`  `keras` `multimodal` `multitask` `LSTM` `cnn` `deep learning` `financial forecasting` `stocks` `stock market`<br>
@@ -34,7 +34,7 @@ Some of the projects that I have done in recent times are briefly described here
 * Outputs of both LSTMs were merged and two independent branches of dense layers were used to predict price movement direction and volatility
 *  Achieved a prediction accuracy of **74.93%** for predicting price movement direction and MSE of **0.0017** for normalized volatility prediction
 * Read my [blog post](https://amitojdeep.github.io/amitoj-blogs/2017/12/30/deep-stock-preds.html) for insights on this work
-* [[_Source code_]](https://github.com/amitojdeep/deep-stock-preds) [[_Report_]](https://github.com/amitojdeep/deep-stock-preds/raw/master/Deep%20Learning%20for%20Stock%20Price%20Prediction.pdf)
+* [_Source code_](https://github.com/amitojdeep/deep-stock-preds) [[_Report_]](https://github.com/amitojdeep/deep-stock-preds/raw/master/Deep%20Learning%20for%20Stock%20Price%20Prediction.pdf)
 
 ## Semantic Similarity Analyzer and Predictive Typing System <br>(_October 2017- November 2017_)
 `python` `keras` `Siamese LSTM` `Manhattan LSTM` `MaLSTM` `Semantic` <br>
@@ -44,14 +44,14 @@ Some of the projects that I have done in recent times are briefly described here
 * Semantic similarity between current sentence and sentences in the corpus was used for predictive typing
 * It outperformed state of the art statistical techniques
 * Read my [blog post](https://amitojdeep.github.io/amitoj-blogs/2017/12/31/semantic-similarity.html) for design, implementation and results of the Semantic Similarity Analyzer.
-* [[_Source code_]](https://github.com/amitojdeep/predictive-typing) [[_Report_]](https://github.com/amitojdeep/predictive-typing/raw/master/report.pdf)
+* [_Source code_](https://github.com/amitojdeep/predictive-typing) [[_Report_]](https://github.com/amitojdeep/predictive-typing/raw/master/report.pdf)
 
 
 ## Compiler Construction <br>(_January 2017 - December 2017_)
 `compiler`  `programming` `languages` `C` `Data Structures`<br>
 * A compiler for a language supportibg arithmetic, string and matrix operations was developed in C using hash tables, trees and stack optimally.
 * Completed as a part of Compiler Construction course from Jan - May 2018 at BITS Pilani
-* [[_Repo_]](https://github.com/amitojdeep/compiler-construction)
+* [_Repo_](https://github.com/amitojdeep/compiler-construction)
 
 
 ## ATU: Adaptive Template Update for Constructive Fingerprint Identification <br>(_January 2017 - December 2017_)
@@ -60,12 +60,12 @@ Some of the projects that I have done in recent times are briefly described here
 * It mimiced natural deformation during registration of fingerprints and counter acted them to achieve consitency between different fingerprints of the same user
 * High confidence test fingerprints were used to update the database resulting in knowledge augmentation and efficiency 
 * Achieved **100% CRR** and **20% EER** for fingerprints of 100 users of *FVC 2004 database*
-* [[_Source code_]](https://github.com/amitojdeep/fp-recognition) [[_Paper_]](https://github.com/amitojdeep/fp-recognition/raw/master/writeup.pdf)
+* [_Source code_](https://github.com/amitojdeep/fp-recognition) [[_Paper_]](https://github.com/amitojdeep/fp-recognition/raw/master/writeup.pdf)
 
 ## Smart AC System
 * Designed Smart AC System using 8086 microprocessor, RAM, ROM, PPI, Timer, LCD, address latches & buffers. 
 * Project was simulated successfully using Proteus
-* [[Source Code]](Smart AC System) [[_Report_]](https://github.com/amitojdeep/smart-ac/raw/master/mup_report-17.pdf)
+* [Source Code](Smart AC System) [_Report_](https://github.com/amitojdeep/smart-ac/raw/master/mup_report-17.pdf)
 
 ## Logic Programming using Prolog
 * Logic Programming using SWI Prolog to implement Symbolic Algebra Operations
